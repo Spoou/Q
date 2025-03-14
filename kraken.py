@@ -65,7 +65,7 @@ def display_table():
     table.add_row("1. FTP Brute Force", "11. Cpanel Brute Force", "30. Admin Panel Finder")
     table.add_row("2. Kubernetes Brute Force", "12. Drupal Brute Force", "31. Directory Finder")
     table.add_row("3. LDAP Brute Force", "13. Joomla Brute Force", "32. Subdomain Finder")
-    table.add_row("4. VOIP Brute Force", "15. Office365 Brute Force", "")
+    table.add_row("4. VOIP Brute Force", "14. Magento Brute Force", "15. Office365 Brute Force", "")
     table.add_row("5. SSH Brute Force", "16. Prestashop Brute Force", "")
     table.add_row("6. Telnet Brute Force", "17. OpenCart Brute Force", "")
     table.add_row("7. WiFi Brute Force", "18. WooCommerce Brute Force", "")
